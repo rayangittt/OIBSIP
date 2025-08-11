@@ -30,20 +30,18 @@ Trained a Naive Bayes classifier
 
 Got a model that’s quick & efficient at spotting spam!
 
-3️⃣ Sales Prediction 📈
-Goal: Predict product sales based on ad spend across TV, Radio, and Newspaper.
-What I did:
+ 
+ 3. Iris Flower Classification
+The classic beginner’s dataset — but still a great one to practice!
+Here, I classified iris flowers into three species (Setosa, Versicolor, Virginica) using sepal and petal measurements.
 
-Explored relationships between ad spend & sales
+Visualized relationships with scatter plots and pair plots
 
-Built a Linear Regression model to make predictions
+Trained Logistic Regression, Decision Tree, and KNN models
 
-Measured performance with R² and MSE
+Checked accuracy and confusion matrix for performance
 
-🛠 Tech & Tools Used
-Languages: Python 🐍
-
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK
+Tech: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 Platform: Jupyter Notebook
 
